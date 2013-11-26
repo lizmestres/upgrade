@@ -1,0 +1,389 @@
+ /* New styles for events-civicrm view */
+
+/* style common to most fields */
+.view-id-events_civicrm {
+	font-size: 12px;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-style: normal;
+	
+}
+
+/* Styles for sidebar blocks */
+#block-views-events_civicrm-block_5 .more-link, 
+#block-views-events_civicrm-block_4 .more-link {
+	display: none;
+}
+
+#block-views-events_civicrm-block_5 {
+	background: #c0c0c0;
+	width: 160px;
+	margin-left: 10px;
+
+}
+
+#block-views-events_civicrm-block_5 .view-header {
+	margin-left: -10px;
+	margin-top: -10px;
+}
+
+#block-views-events_civicrm-block_5 .views-field-start-date {
+	border-top: 1px solid black;
+	padding-top: 10px;
+	font-size: 9.5px;
+	font-family: Futura XBlk, Futura XBlk BT, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: normal;
+	text-align: left;
+	margin-top: 7px;
+	margin-left: 0px;
+	margin-bottom: 2px;
+	line-height: .7em;	
+}
+#block-views-events_civicrm-block_2 .views-field-start-date {
+	border-top: 1px solid black;
+	padding-top: 10px;
+	font-size: 10px;
+	font-family: Futura XBlk, Futura XBlk BT, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: normal;
+	margin-top: 7px;
+	margin-left: 0px;
+	margin-bottom: 2px;
+	line-height: .7em;	
+}
+
+#block-views-events_civicrm-block_5 .views-field-start-date-1, 
+#block-views-events_civicrm-block_2 .views-field-start-date-1 {
+	float:left;
+	font-size: 10px;
+}
+#block-views-events_civicrm-block_2 .views-field-end-date {
+	float: left;
+	font-size: 10px;
+	padding-left: 5px;
+}
+
+#block-views-events_civicrm-block_2 .views-field-co-sponsor-39 {
+	clear: both;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 10px;
+	font-style: italic;
+	margin-left: 15px;
+	line-height: 1.1em;
+}
+
+#block-views-events_civicrm-block_2 .views-field-kicker-38 {
+	clear: both;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 10px;
+	font-style: italic;
+	text-transform: uppercase;
+	margin-left: 15px;
+	line-height: 1.1em;
+}
+#events_civicrm_tabs_block_1,
+#events_civicrm_tabs-block_1,
+#tabbed_block_1 {
+	clear: both; 
+	width: 420px;
+}
+
+
+#block-views-events_civicrm-block_5 .views-field-title,
+#block-views-events_civicrm-block_5 .views-field-title a {
+	clear: both;
+	font-family: Futura XBlk BT, futura, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: normal;
+	font-size: 12px;
+	margin-top: 2px;
+	color: #000000;
+	line-height: 1.1em;
+	margin-left: 0px;
+	text-align: center;
+}
+
+#block-views-events_civicrm-block_5 .views-field-title-2-59 {
+	clear: both;
+	font-family: Futura XBlk BT, futura, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: normal;
+	font-size: 10px;
+	margin-top: 2px;
+	color: #000000;
+	line-height: 1.1em;
+	margin-left: 0px;
+	text-align: center;
+}
+
+	
+#block-views-events_civicrm-block_2 .views-field-title {
+	clear: both;
+	font-family: Futura XBlk BT, futura, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: bold;
+	font-size: 12px;
+	margin-top: 2px;
+	color: #000000;
+	line-height: 1.2em;
+	margin-left: 15px;
+}
+
+#block-views-events_civicrm-block_2 .views-field-title-2-59 {
+	clear: both;
+	font-family: Futura XBlk BT, futura, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: bold;
+	font-size: 10px;
+	margin-top: 2px;
+	color: #990000;
+	line-height: 1.1em;
+	margin-left: 15px;
+	
+}
+
+#block-views-events_civicrm-block_5 .views-field-speaker-teachers-performers-22 {
+	font-family: Times New Roman, Serif; 
+	font-size: 12px;
+	line-height: 1.2em;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 3px; 
+	color: #000000;
+	margin-left: 0px;
+
+}
+#block-views-events_civicrm-block_2 .views-field-speaker-teachers-performers-22 {
+	font-family: Times New Roman, Serif; 
+	font-size: 10px;
+	line-height: 1.2em;
+	margin-top: 0px;
+	margin-bottom: 3px; 
+	color: #000000;
+	margin-left: 15px;	
+}
+#block-views-events_civicrm-block_5 .more-link, 
+#block-views-events_civicrm-block_2 .more-link {
+	display: none;
+}
+
+
+/* styles specific to each field */
+#block-views-events_civicrm-block_1 .views-field-start-date,
+.views-field-start-date {
+	border-top: 1px solid black;
+	padding-top: 10px;
+	font-family: Futura XBlk, Futura XBlk BT, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: bold;
+	margin-top: 7px;
+	margin-left: 0px;
+	margin-bottom: 2px;
+	line-height: 1.1em;	
+}
+
+#block-views-events_civicrm-block_1 .views-field-start-date-1,
+.views-field-start-date-1 {
+	float:left;
+}
+
+#block-views-events_civicrm-block_1 .views-field-end-date,
+.views-field-end-date {
+	float: left;
+	padding-left: 5px;
+
+}
+
+.dtend {
+	font-family: Futura XBlk, Futura XBlk BT, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: bold;
+}
+#block-views-events_civicrm-block_1 .views-field-kicker-38,
+.views-field-kicker-38 {
+	clear: both;
+	font-size: 12px;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-style: italic;
+	text-transform: uppercase;
+	margin-left: 35px;
+	line-height: 1.1em;
+}
+
+#block-views-events_civicrm-block_1 .cosponsor,
+.cosponsor,
+.views-field-co-sponsor-39 {
+	clear: both;
+	font-size: 12px;
+	font-style: italic;
+	margin-left: 35px;
+	line-height: 1.1em;
+}
+
+
+.view-events-planner .views-field-title,
+.view-events-civicrm-tabs .views-field-title,
+.view-id-events_civicrm .views-field-title,
+#block-views-events_civicrm-block_1 .views-field-title
+ {
+	clear: both;
+	font-size: 14px;
+	font-family: Futura XBlk BT, futura bold, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: bold;
+	margin-top: 2px;
+	color: #000000;
+	line-height: 1.2em;
+	margin-left: 35px;
+}
+
+#block-views-events_civicrm-block_1 .views-field-title-2-59,
+.views-field-title-2-59 {
+	font-size: 12px;
+	font-family: Futura XBlk BT, futura bold, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-weight: bold;
+	line-height: 1.2em;
+	color: #000000;
+	margin-top: 0px;
+	margin-left: 35px;
+}
+
+#block-views-events_civicrm-block_1 .views-field-speaker-teachers-performers-22,
+.views-field-speaker-teachers-performers-22 {
+	font-size: 14px;
+	font-family: Times New Roman, Serif; 
+	margin-top: 0px;
+	margin-bottom: 3px; 
+	color: #000000;
+	margin-left: 35px;	
+}
+
+.views-field-film-data-40 {
+	line-height: 1.1em;	
+	margin-left: 35px;
+}
+
+.views-field-summary {
+	line-height: 1.2em;
+	margin-left: 35px;
+}
+
+.views-field-description {
+	font-size: 12px;
+  	line-height: 1.2em;
+  	margin-left: 35px;
+  	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial, Verdana, "Bitstream Vera Sans", sans-serif;
+
+}
+
+.views-field-bios-23 {
+	font-size: 12px;
+	line-height: 1.2em;
+	margin-left: 35px;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial, Verdana, "Bitstream Vera Sans", sans-serif;
+}
+
+.views-field-fee-90,
+.views-field-fees-89,
+.views-field-fee-display-63 {
+	text-align: right; 
+	margin-right: 0px;
+	font-size: 9pt; 
+	font-family: Futura Bk BT, Futura Bd, Kabel Md BT, Helvetica, Arial; 
+	font-style: italic;
+	margin-left: 0px; 
+	margin-bottom: 5px; 
+}
+
+.views-field-text-link {
+	color: blue;
+	font-weight: bold;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 9pt;
+	text-align: right;
+	margin-right: px;
+	margin-bottom: 0px;
+	line-height: 1.1em;
+}
+
+.views-field-text-link a {
+	color: blue;
+	font-weight: bold;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 9pt;
+	text-align: right;
+	margin-bottom: 0px;
+	line-height: 1.1em;
+}
+
+
+
+
+/* End of events-civicrm view */
+
+/* pre-views styles used on civicrm generated pages */
+
+.fulldate {
+	font-family: Futura XBlk BT, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-size: 12px;
+	font-weight: bold;
+	margin-top: 7px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	line-height: 1em;	
+}
+
+.calendartitle {
+	font-family: Futura XBlk BT, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 4px; 
+	margin-bottom: 0px; 
+	margin-left: 35px;
+	font-style: normal;
+	line-height: 1em;
+	color: #000000;
+}
+
+.calendarsubtitle {
+	font-family: Futura XBlk BT, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-size: 12px;
+	font-weight: bold;
+	margin-top: 0px; 
+	margin-bottom: 5px; 
+	margin-left: 35px;
+	font-style: normal;
+	color: #000000;
+}
+.calendartext {  
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial; 
+	font-size: 12px; 
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px; 
+	margin-left: 35px; 
+	font-style: normal;
+	line-height: 1.2em;
+	}
+.calendartext a {
+	color: blue;
+}
+
+.register {
+	text-align: right; 	
+	font-family: Futura XBlk BT, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-size: 14px;
+	margin-top: 4px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	font-style: italic;
+	padding-bottom: 10px;
+}
+
+.register a {	color:#993366}
+
+/* End of pre-views styles used on civicrm generated pages */
+
+/* zen specific styles */
+
+.page-civicrm-event-info h1.title,
+#pid-civicrm-event-info h1.title {
+	display: none;
+}
+
+/* End zen specific styles */

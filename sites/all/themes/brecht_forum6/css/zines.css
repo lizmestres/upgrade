@@ -1,0 +1,178 @@
+
+/*NEWSLETTER
+************************/
+
+#pid-newsletter h1.title {
+	display: none;
+}
+
+#block-views-Newsletter-block_1 {
+	width: 558px;
+	margin-top: -20px;
+	border-left: 1px solid black;
+	padding-left: 10px;	}
+
+#block-views-Newsletter-block_3 .block-title,
+#block-views-Newsletter-block_1 .views-field-title a,
+#block-views-Newsletter-block_1 .views-field-title {
+	clear: both;
+	font-family: futura, helvetica, arial, verdana;
+	font-weight: bold;
+	font-size: 14px;
+	color: black;
+}
+
+
+
+#block-views-Newsletter-block_1 .views-field-view-node {
+	float: left;
+	font-size: 10px;
+	margin-top: -12px;
+	margin-bottom: 12px;
+}
+
+
+
+#block-views-Newsletter-block_2 {
+	margin-top: -35px;
+	width: 170px;
+	background: #FFE3C3;
+	padding: 5px;
+	text-align: center;
+	clear: left;
+
+
+}
+
+
+
+#block-views-Newsletter-block_2 .views-field-body {
+	color: black;
+	font-family: futura, helvetica, arial, verdana;
+	font-size: 10px;
+	line-height: 1.1em;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+
+#block-views-Newsletter-block_2 .views-field-title a,
+#block-views-Newsletter-block_2 .views-field-title {
+	clear: both;
+	font-family: futura, helvetica, arial, verdana;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 1.1em;
+	color: black;
+	display: none;
+
+}
+
+#block-views-Newsletter-block_3 {
+	margin-top: -25px;
+	width: 170px;
+	background: #FFE3C3;
+	padding: 5px;
+	text-align: left;	
+
+}
+
+.node-type-newsletters .field-newsletter-issue .field-label,
+.node-type-newsletters .meta {
+	Display: none;
+}
+.node-type-newsletters .field-newsletter-issue {
+	float: left;
+	font-style: italic;
+	padding-right: 10px;
+}
+
+
+/* ZINES 
+*******************/
+
+.node-type-content-zine .field-field-article-title,
+.view-zineview .views-field-title {
+	border-top: 1px solid black;
+	padding-top: 10px;	
+	font-family: Futura, Futura bk, Kabel Bk, Futura Book, Helvetica, Ariel;
+	font-size: 14px;
+ 	font-style: condensed;
+	color: #515100;
+	font-weight: bold;
+	margin-top: 8px; 
+	margin-bottom: 2px; 
+}
+
+
+#block-views-zineview-block_1
+{
+	width: 400px;
+}
+
+.node-type-content-zine #header h1.title {
+	text-transform: none;
+	font-family: Futura, Futura bk, Kabel Bk, Futura Book, Helvetica, Ariel;
+	font-size: 15px;
+ 	font-style: condensed;
+	color: #515100;
+	font-weight: bold;
+	margin-top: 8px; 
+	margin-bottom: 2px; 
+}
+
+	
+.zineauthor {  
+	font-family: Times New Roman, Serif; 
+	font-size: 14px;
+	margin-top: 2px; 	
+	margin-right: 0px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+	padding-bottom: 0px; 
+	font-style: normal;
+	color: #000000;	
+	}
+
+.zinesubhead {
+	font-family: Futura, Futura Bk, Kabel Bk, Futura Book, America, Times, caslon, bookman;
+	font-size: 11px;
+ 	font-style: condensed;
+	color: #515100;
+	font-weight: bold;
+	margin-top: 4px; 
+	margin-bottom: 2px; 
+}
+
+
+.zinetext {  
+	font-family: America, Times, caslon, bookman;
+	font-size: 11px; 
+	margin-top: 2px;
+	margin-right: 0px;
+	margin-bottom: 0px; 
+	margin-left: 0px; 
+	font-style: normal;
+	line-height: 1.2em;
+	}
+	
+
+
+	
+.zinemore-info,
+.view-zineview .views-field-view-node {
+	color: red;
+	text-align: right;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 12px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 8px;
+	font-style: normal;
+	line-height: 1.0em;
+}
+
+.view-zineview .views-field-view-node a {
+	color: red;
+}
+

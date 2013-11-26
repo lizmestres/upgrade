@@ -1,0 +1,1243 @@
+
+#block-block-1 {
+	margin-bottom: 20px;
+}
+
+/* display suite regions */
+.node-type-page .field-author,
+.node-type-surveys .submitted,
+.node-type-page .field-test-key,
+.node-type-webform .submitted {
+	display: none;
+}
+#pid-brecht-forum-program-group-calendar h1.title,
+#pid-node-4625-og-panel-2  h1.title,
+#pid-upcoming h1.title,
+#pid-note-liz-mestres h1.title,
+#pid-economywatch h1.title,
+#pid-civicrm-contribute-transact h1.title {
+	display: none;
+}
+
+
+#scrolltext2 {
+	background: none;
+	color: black;
+	text-transform: uppercase;
+	
+}
+
+#block-addtoany-0 h2.title.block-title,
+#block-views-news_ticker-block_1 .field_weblink_url {
+	display: none;
+	
+}
+
+#block-quicktabs-programs h2.title.block-title {
+
+	font-family: "Futura XBlk BT", "Kabel Ult BT", "Arial Black", "HelveticaBlack";
+	font-size: 1.3em;
+	text-align: left;
+	margin-top: 15;
+	bottom: 0;
+	text-transform: uppercase;
+	color: #999999;
+}
+
+#block-quicktabs-programs {
+ 	width: 400px;
+	margin-right: -5px;
+	float: left;
+	margin-top: -40px;
+	
+}
+
+#block-views-og_my-block_1 {
+	width: 130px;
+}
+
+ul.quicktabs_tabs.quicktabs-style-zen li a {
+    background: url("images/tab-right-ie6.png") no-repeat scroll right -38px transparent;
+    border-width: 0;
+    display: block;
+    font: bold 9px/170% Verdana;
+    margin: 0;
+    padding: 4px 17px 0 12px;
+    text-decoration: none;
+}
+
+
+
+
+.letter {
+	font-family: "American Typewriter", "Kabel Book BT", "Futura Book BT", Helvetica, Arial;
+	font-size: 10pt;
+}
+
+
+#block-views-events_civicrm-block_1 {
+	margin-top: -20px;
+}
+
+.panel-col .views-field-title,
+.panel-col-first .views-field-title {
+	margin-top: 10px;
+
+	}
+.panel-col-last .views-field-title {
+	float: left;
+	font-weight: bold;
+	padding-right: 10px;
+
+}
+
+.panel-col-last .views-field-body {	
+
+}
+
+.pane--title .block-title {
+	margin-top: 10px;
+}
+
+.groups,
+.panel-col-top h2.pane-title {
+	display: none;
+}
+.panel-col-top {
+	margin-bottom: -10px;
+}
+
+.view-ogblocks-serge .views-field-title a,
+.view-ogblocks .views-field-title a {
+	text-align: left;
+	font-size: 12px;
+	font-weight: bold;
+	color: black;
+	padding-bottom: 10px;
+}
+
+
+#block-block-mm_subscribe-1 .legend,
+#block-block-mm_subscribe-2 .legend {
+	text-transform: none;
+	width: 100px;
+	font-size: 9px;
+    font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial, 'Liberation Sans', FreeSans, Tahoma, Verdana, "Bitstream Vera Sans", sans-serif;
+  }
+  
+#block-mm_subscribe-1,
+#block-mm_subscribe-2 {
+ font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+ font-size: 10px;
+ color: black;
+ height: 170px;
+ width: 150px;
+ border-style: solid;
+ border-width: 1px;
+ background: #C0C0C0;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: -12px;
+ padding-bottom: 10;
+ margin-top: 0px;
+ margin-bottom: 10px;
+ margin-left: 10px;
+}
+
+  
+.node-type-video_upload .nd-region-left {
+	width: 170px;
+	float: right;
+}
+
+
+
+
+/* NEWSTICKER */
+/*******************************/
+
+
+#newsticker{
+  overflow:hidden;
+  height: 1.5em;
+  margin-top: -15px;
+  
+}
+#newsticker ul{
+  margin:0;
+  padding:0;
+}
+li.newsticker-item{
+  float:left;
+  list-style:none;
+  margin:0;
+  padding:0;
+  background:none;
+}
+/* video */
+#block-views-video-block_2 .field-item-1,
+#block-views-video-block_2 .field-item-2,
+#block-views-video-block_2 .field-item-3,
+#block-views-video-block_2 .field-item-4,
+#block-views-video-block_2 .field-item-5 {
+	display: none;
+}
+
+
+#block-views-video-block_2 .view-header {
+	text-align: center;
+}
+
+
+	
+#block-views-video-block_2 .views-field-title {
+	text-align: left;
+	font-size: 9px;
+	line-height: 10px;
+	margin-bottom: 2px;
+}
+	
+#block-views-video-block_2 {
+	margin-top: -35px;
+	width: 160px;
+	padding: 0px;
+}
+
+#block-views-video-block_5 .field-item-1,
+#block-views-video-block_5 .field-item-2,
+#block-views-video-block_5 .field-item-3,
+#block-views-video-block_5 .field-item-4,
+#block-views-video-block_5 .field-item-5  {
+	display: none;
+}
+
+#block-views-video-block_5 {
+	margin-top: -20px;
+}
+
+#block-views-video-block_5 .views-field-title {
+	font-size: 9px;
+	line-height: 10px;
+	text-align: left;
+	margin-top: -3px;
+	width: 160px;
+	display: block;
+	height: 30px;
+	
+	}
+	
+
+#block-views-video-block_8 {
+	width: 265px;
+	float: right;
+	margin-top: -50px;
+	margin-right: -10px;
+}
+
+/* begin links styles */
+
+.node-type-content-links .title,
+.view-id-links .views-field-title {
+	width: 100%;
+	border-top: 1px solid black;
+	padding-top: 10px;	
+	font-family: Futura XBlk BT, Kabel Ult BT, Futura, Arial Black, HelveticaBlack;
+	font-weight: bold;
+	text-transform: none;
+	font-size: 12px;
+	margin-top: 4px; 
+	margin-bottom: 0px; 
+	font-style: normal;
+	color: #000000;
+}
+
+
+.node-type-content-links .field-field-description-0,
+.views-field-field-description-0-value {  
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial; 
+	font-size: 12px; 
+	margin-top: 2px;
+	margin-right: 0px;
+	margin-bottom: 0px; 
+	margin-left: 35px; 
+	font-style: normal;
+	line-height: 1.2em;
+	}
+	
+.node-type-content-links .weblinks a,
+.views-field-field-weblink-url a {
+	color: blue;
+	padding-top: 0px;
+	padding-bottom: 15px;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 12px;
+	color: #993366;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 35px;
+	margin-bottom: 8px; 	
+	font-weight: bold;
+	line-height: 1.1em;
+}
+
+#block-search-0 h2.title {
+	display: none;
+}
+
+#block-search-0 {
+    width: 160px;
+    float: left;
+    }
+    
+#block-block-146 {
+	width: 560px;
+
+	
+	}
+#block-block-140 {
+	width: 160px;
+
+	
+	}
+#block-views-links-block_1 .title {
+	margin-left: 20px;
+}
+
+#block-views-links-block_1 .views-field-title {
+	font-size: 10px;
+}
+
+#block-views-links-block_1 .views-field-field-weblink-url a {
+	font-size: 10px;
+
+}
+
+#block-views-links-block_1  {
+
+ 	indent: none;
+ 	margin-left: -20px;
+ 	
+}
+
+#block-views-links-block_1 li {
+	width: 160px;
+ 	list-style: none;
+ 	indent: none;
+ 	
+}
+
+
+ /* End links styles */
+ 
+
+/* styles for podcasts */
+
+
+
+
+.podcast-date {
+	width: 100%;
+	padding-top: 10px;
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	margin-top: 7px;
+	line-height: 1.1em;	
+}
+
+
+
+
+.view-id-Podcasts .views-table {
+	background: none;
+	width: 600px;
+}
+
+
+
+
+.node-type-podcasts h1.title {
+	text-transform: none;	
+	font-family: Futura XBlk BT, futura, Kabel Ult BT, Arial Black, HelveticaBlack;
+	font-size: 14px;
+	font-style: bold;
+	color: black;
+
+}	
+
+.node-type-podcasts h2.title {
+	display: none;
+}
+
+.node-type-podcasts .field-speaker-first-name {
+	float: left;
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 13px;
+	font-style: normal;
+	padding-right: 3px;
+}
+
+
+.node-type-podcasts .field-speaker-last-name {
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 13px;
+	font-style: normal;
+
+}
+
+.node-type-podcasts .field-class-term {
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 13px;
+	font-style: normal;
+	padding-bottom: 6px;
+}
+
+.node-type-podcasts .field-description-1 {
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 13px;
+	font-style: normal;
+	line-height: 1.2em;
+	padding-bottom: 6px;
+}
+
+.node-type-podcasts .field-type-number-integer, 
+.node-type-podcasts .field-type-number-integer .field-field-session {
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 11px;
+	font-style: normal;
+	padding-bottom: 10px;
+} 
+
+.view-id-Podcasts table.views-table td {
+	border-top: 1px solid #000;
+	padding-top: 4px;
+	padding-bottom: 4px;
+
+}	
+
+.view-id-Podcasts .views-field-field-speaker-first-name-value {
+	float: left;
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 9px;
+	font-style: normal;
+	
+}
+
+.view-id-Podcasts .views-field-field-speaker-last-name-value {
+
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 9px;
+	font-style: normal;
+	
+}
+#block-views-Podcasts-block_5 .views-field-body a,
+#block-views-Podcasts-block_5 .views-field-body {
+	color: black;
+	font-size: 10px;
+	font-family: Futura, Kabel, Helvetica, Arial;
+	padding-top: -5px;
+
+}
+
+#block-views-Podcasts-block_4 .views-field-field-description-1-value {
+
+	padding-top: 10px;
+	font-size: 10px;
+}
+
+#block-views-Podcasts-block_5 .views-field-field-uploadimage-fid, 
+#block-views-Podcasts-block_4 .views-field-field-uploadimage-fid {
+	float: left;
+	margin-right: 12px;
+}
+
+
+#block-views-Podcasts-block_5 .views-field-title {
+
+
+	margin-bottom: -10px;
+	font-family: Futura, Kabel, Helvetica, Arial;
+	font-size: 15px;
+	font-weight: bold;
+
+	color: red;
+	padding-right: 0px;
+}
+#block-views-Podcasts-block_4 .views-field-title {
+	float: left;	
+	padding-top: 18px;
+	font-family: Futura, Kabel, Helvetica, Arial;
+	font-size: 15px;
+	font-weight: bold;
+	color: red;
+	padding-right: 6px;
+}
+#block-views-Podcasts-block_5 {
+	background: #CCCC99;
+	border-bottom: 1px solid #000;
+	margin-top: -14px;
+	padding-left: 6px;
+	padding-top: 6px;
+	padding-right: 6px;
+	margin-left: 10px;
+	width: 570px;
+
+}
+#block-views-Podcasts-block_4 {
+	border-bottom: 1px solid #000;
+	margin-top: -14px;
+}
+
+
+#block-views-Podcasts-block_2 .views-field-title {
+	border-top: 1px;
+	padding-top: 10px;
+	font-family: Futura, Kabel, Helvetica, Arial;
+	font-size: 11px;
+	font-weight: bold;
+	padding-right: 4px;
+}
+
+.view-id-Podcasts .views-field-field-date-value {
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 9px;
+	font-style: normal;
+}
+#block-views-Podcasts-block_3 {
+	width: 290px;
+}
+
+#block-views-Podcasts-block_3 .views-field-field-description-1-value {
+	font-size: 9px;
+}
+
+.view-id-Podcasts td.views-field-field-class-term-value {
+	border-top: 1px solid #000;
+	font-family: Futura Bk BT, futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 9px;
+	font-style: normal;
+}
+
+
+/* End of styles for podcasts */
+
+
+/* begin blocks */
+
+
+#links-block_1 {
+	background: red;
+	width: 160px;
+}
+
+
+}
+
+#-inner-53 {
+	background: red;
+}
+#block-block-124 {
+	margin-bottom: -12px;
+}
+
+#block-block-126 {
+	margin-top: 10px;
+	margin-bottom: -2px;
+}
+#block-block-134 {
+	margin-top: -10px;
+	margin-bottom: -5px;
+}
+#block-block-137 {
+	margin-top: -20px;
+}
+
+
+#block-block-141 {
+	margin-top: -35px;
+
+}
+
+#block-block-139 {
+	margin-top: -25px;
+	margin-bottom: -25px;
+}
+
+#block-block-144 {
+	width: 580px;
+	margin-top: -25px;
+	margin-bottom: -5px;
+}
+
+/* Beginning of themed blocks */
+
+.redblock {
+	background: red;
+	color: #fff;
+	}
+
+.thinboxright {
+ border: 1px solid black;
+ padding: 0px;
+ margin-top: 5px;
+ margin-bottom: 10px;
+ text-align: center;
+}
+
+#block-block-142 {
+	margin-bottom: -7px;
+}
+
+#block-block-138 {
+	margin-top: -15px;
+}
+
+#block-block-119 {
+	margin-top: -12px;
+	Margin-bottom: 0px
+}
+
+#block-block-123 {
+	margin-top: -12px;
+	margin-bottom: -8px;
+}
+
+#block-block-105 {
+	margin-top: -20px;
+}
+
+#block-block-106 {
+	margin-top: -38px;
+}
+
+
+#block-block-108 {
+	margin-top: -10px;
+}
+
+
+
+/* Features Block */
+#block-block-61 {
+	margin-top: 0px;
+
+}
+
+#block-block-65 {
+	margin-top: -15px;
+}
+
+#block-block-71 {
+	margin-top: -15px;
+	width: 580px;
+}		
+		
+#block-block-6 {
+	font-family: "Futura Bk BT", "Kabel Bk BT", HelveticaLight, Helvetica, Arial;
+
+ 	border-style: solid;
+	 border-width: 1px;
+	 border-color: black;	
+	font-size: 10px;
+	line-height: 1.5em;	
+	padding-top:16px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 16px;
+	background: #000000;
+	color: white;
+}
+
+/* End of themed blocks */
+#block-tabbed_block-3,
+#block-views-events_civicrm-block_1
+{
+	width: 400px;
+	margin-top: -10px;
+}
+
+.tabbed_block-container {
+	margin-top: -10px;
+}
+.tabbed_block-nav {
+	margin-bottom: -5px;
+}
+
+
+/* Beginning of Video blocks */
+
+#block-views-video-block_2 {
+	font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 10px;
+	line-height: 11px;
+	margin-right: 0px;
+	float: right;
+	width: 158px;
+
+
+}
+
+#block-views-video-block_2 .title {
+	/*text-transform: uppercase;
+	display: block;
+	font-size: 11px;
+	text-align: center;
+
+	border-top: 1px;
+	border-bottom: 1px;
+	border-color: black;*/
+	font-family: "Futura XBlk BT", "Kabel Ult BT", "Arial Black", "HelveticaBlack";
+	font-size: 1.5em;
+	text-align: left;
+	margin-top: 6px;
+	text-align: center;
+	bottom: 0;
+	text-transform: uppercase;
+	color: #999999;
+
+}
+
+#block-block-83 .title {
+	display: none;
+}
+
+.view-id-video .views-field-title {
+	margin-top: 6px;
+}
+	
+
+	
+
+
+/* Beginning of Podcast blocks */
+#block-views-Podcasts_aquia-block_1,
+#block-views-Podcasts-block_1 {
+
+	font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	width: 150px;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-bottom: 30px;
+	padding-top: 4px;
+	padding-left: 0px;
+	padding-right: 8px;
+	border-style: solid;
+	 border-width: 1px;
+	 border-color: black;
+}
+	
+ /*width: 160px;
+ border: 1px solid black;
+ padding: 0px;
+ margin-top: -5px;
+ margin-bottom: 10px;
+ text-align: center;*/
+ 
+#block-views-Podcasts_aquia-block_1 .views-field-title a,
+#block-views-Podcasts-block_1 .views-field-title a {
+	font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 10px;
+	line-height: 1;
+	margin-top: 0px;
+	font-weight: bold;	
+	text-decoration: none;
+	color: #000000;
+
+}
+
+#block-views-Podcasts-block_1 .views-field-title {
+	font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 10px;
+	line-height: 1;
+	margin-top: 0px;
+	font-weight: bold;	
+	text-decoration: none;
+	color: #000000;
+}
+#block-views-Podcasts_aquia-block_1 .title,
+#block-views-Podcasts-block_1 .title {
+	font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	text-transform: uppercase;
+	font-size: 11px;
+	line-height: 1.2;
+	text-align: center;
+	color: #000000;
+}
+
+#block-views-Podcasts_aquia-block_1 .views-field-field-speaker-first-name-value,
+#block-views-Podcasts-block_1 .views-field-field-speaker-first-name-value  {
+    font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	float: left;
+	font-size: 10px;
+	line-height: 10px;
+	padding-right: 2px;
+
+}
+
+#block-views-Podcasts_aquia-block_1 .views-field-field-speaker-last-name-value,
+#block-views-Podcasts-block_1 .views-field-field-speaker-last-name-value  {
+	font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 10px;
+	line-height: 10px;
+	padding-bottom: .5em;
+
+}
+#block-views-Podcasts_aquia-block_1 .view-footer,
+#block-views-Podcasts-block_1 .view-footer {
+    font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 10px;
+	line-height: 10px;
+	padding-bottom: 2px;
+}
+
+/* End of Podcast blocks */
+
+#block-block-104 {
+	width: 450px;
+}
+
+#block-block-99,
+#block-block-98 {
+	
+	 margin-bottom: -17px;
+}
+
+#block-block-63 {
+	margin-top: -20px;
+	width: 580px;
+}
+
+#block-block-x {
+	background: red;
+	 border-style: solid;
+	 border-width: 1px;
+	 border-color: black;
+	 padding-top: -8px;
+	 padding-right: 8px; 
+	 padding-left: 8px;
+	 margin-top: 10px;
+	 margin-bottom: 10px;
+}
+/*Marx in Soho Block*/
+#block-block-14 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: 8px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+/*Donate Block*/
+#block-block-32, #block-block-36 {
+ border: 1px solid black;
+ padding: 0px;
+ margin-top: 5px;
+ margin-bottom: 10px;
+ text-align: center;
+}
+
+/*Thanks Block*/
+#block-block-47 {
+ border-top: 1px solid black;
+ padding: 0px;
+ margin-top: 80px;
+ margin-bottom: 10px;
+ text-align: left;
+}
+
+
+/*Summer Spanish*/
+#block-block-45 {
+	width: 155px;
+    height: 63px;
+	text-align: left;
+border: 1px solid black;
+ margin-top: 0px;
+ margin-right: 15px;
+ margin-bottom: 10px;
+
+}
+
+/*Announcements 4*/
+#block-block-43 {
+	margin-left: 10px;
+ width: 160px;
+ border: 1px solid black;
+ padding: 0px;
+ margin-top: -5px;
+ margin-bottom: 10px;
+ text-align: center;
+}
+
+/*Footer*/
+#block-block-48 {
+
+ padding: 0px;
+ margin-top: 5px;
+ margin-bottom: 10px;
+ text-align: center;
+}
+
+
+/*Capitalism Banner*/
+#block-block-41 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding: 0px;
+ margin-top: 5px;
+ margin-bottom: 10px;
+ text-align: center;
+}
+
+/*Donate Button-left*/
+#block-block-39 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding: 0px;
+ margin-top: 5px;
+ margin-bottom: 10px;
+ text-align: center;
+}
+
+/*Lifesaver2 Donate Block*/
+#block-block-40 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding: 0px;
+ margin-top: 5px;
+ margin-bottom: 10px;
+ text-align: center;
+}
+/*Sub Info Block*/
+#block-block-34 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: 8px;
+ padding-right: 8px; 
+ padding-left: 20px;
+ margin-top: 5px;
+ margin-bottom: 10px;
+}
+
+
+/*John Brown Block*/
+#block-block-16 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: 8px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#block-block-8 {
+ width: 149px;
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 3px; 
+ padding-left: 3px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#block-block-12 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: 8px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#block-block-29 {
+ border-style: solid;
+ border-width: 0px;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: 0px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+/* Social media block */
+#block-block-58 {
+	margin-top: -20px;
+	height: 30px;
+	text-align: center;
+	margin-bottom: 35px;
+
+}	
+
+#block-block-102 {
+	margin-bottom: 0px;
+	margin-top: -30px;
+
+}
+
+
+
+
+		
+/*Freedom at Risk Block*/
+#block-block-18, #block-block-20 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: 8px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+/*Zizek Block*/
+#block-block-19 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: 8px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+
+
+/*email subscribe-page 1
+#block-block-59 {
+ height: 145px;
+ border-style: solid;
+ border-width: 1px;
+ background: #DDD9D3;
+ border-color: black;
+ padding-right: 5px; 
+ padding-left: -5px;
+ margin-top: -33px;
+ margin-bottom: 0px;
+}*/
+
+#block-block-59 {
+ font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+ font-size: 10px;
+ color: black;
+ height: 180px;
+ width: 150px;
+ border-style: solid;
+ border-width: 1px;
+ background: #C0C0C0;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: -12px;
+ padding-bottom: 10;
+ margin-top: 0px;
+ margin-bottom: 10px;
+ margin-left: 10px;
+}
+#block-block-112,
+#block-block-113 {
+	margin-top: -10px;
+	Margin-bottom: =10 px;
+}
+
+/*email subscribe-other pages*/
+
+#block-block-2 {
+ font: Futura Bk BT, Futura, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+ font-size: 7.5px;
+ text-align: left;
+ color: black;
+ height: 175px;
+ width: 160px;
+ border-style: solid;
+ border-width: 1px;
+ background: #DDD9D3;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: -20px;
+ padding-bottom: 10;
+ margin-top: 0px;
+ margin-right: 10px;
+ margin-bottom: 0px;
+
+}
+
+#block-block-57 {
+	margin-top: 200px;
+	padding-top: 0;
+	height: 174px;
+	margin-bottom: 30px;
+
+
+
+/*Party like it's 1968*/
+#block-block-20 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: -8px;
+ padding-right: 8px; 
+ padding-left: 8px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+/*Exhibit Block*/
+#block-block-21 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: 0px;
+ padding-right: 0px; 
+ padding-left: 0px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+/*Announcement1 Block*/
+#block-block-22 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding: 0px;
+ margin-top: 5px;
+ margin-bottom: 10px;
+ text-align: center;
+}
+
+
+/*Announcement2 Block*/
+#block-block-23 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding-top: -20px;
+ padding-right: 8px; 
+ padding-left: 8px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+
+/*Announcement3 Block*/
+#block-block-24 {
+ border-style: solid;
+ border-width: 1px;
+ border-color: black;
+ padding: 1px
+ margin-top: 10px;
+ margin-bottom: 0px;
+}
+
+/* Centering the user login is default and IMHO looks ugly */
+#block-user-0 div {
+ text-align: left;
+ width: 160px;
+}
+
+/* Request password does not need bullet - it's the only item on the list now */
+
+#block-user-0 li {
+ list-style: none;
+ margin-left:0px;
+
+}
+
+
+
+#block-user-1 h2 {
+ display: none;
+}
+
+/* End of Blocks Styles */
+
+
+	
+.logo-title {
+	display: none;
+}
+
+
+
+/* Beginning of civicrm styling */
+
+#crm-container {
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 12px;
+	font-style: normal;
+}
+
+#crm-container 
+.header-dark {
+	background-color: #FFFFFF;
+	font-family: Futura, Kabel, Helvetica, Arial;
+	font-size: 12px;
+	color: #000000;
+	border-top: 1px solid black;
+	padding-top: 5px;
+	margin-top: 10px;
+	padding-left: 0px;
+}
+
+#crm-container tr {
+	font-size: 12px;
+	font-family: Futura, Kabel, Helvetica, Arial;
+	font-weight:	normal;
+	margin:1em 2em;
+}
+
+#crm-container table {
+	border:1px solid #cccccc;
+	border-collapse:collapse;
+	margin:0.5em 0.1em;
+	width:99%;
+}
+
+#crm-container
+tr.columnheader {
+	background-color: #cccccc;
+ 	border: 1px solid #cccccc;
+
+}
+
+#crm-container .form-layout-compressed td, #crm-container .form-layout-compressed th {
+	padding-left:5px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	vertical-align:text-top;
+}
+
+
+ .rule {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	font-size: 1pt;
+	border-bottom-width: .75pt;
+	border-bottom-style: solid;
+	border-bottom-color: #000033;
+	}
+	
+/* Beginning of organic group styling */
+
+.view-id-oggoblocks .view-dom-id-2 (
+width: 580px;
+float: left;
+)
+.view-id-group_blocks .view-dom-id-3 (
+width: 160px;
+
+)
+
+

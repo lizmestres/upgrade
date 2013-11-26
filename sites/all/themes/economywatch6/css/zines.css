@@ -1,0 +1,101 @@
+
+.node-type-content-zine .field-field-article-title,
+.view-zineview .views-field-title {
+	border-top: 1px solid black;
+	padding-top: 10px;	
+	font-family: Futura, Futura bk, Kabel Bk, Futura Book, Helvetica, Ariel;
+	font-size: 14px;
+ 	font-style: condensed;
+	color: #515100;
+	font-weight: bold;
+	margin-top: 8px; 
+	margin-bottom: 2px; 
+}
+
+#pid-economywatch2 h1.title {
+	display: none;	
+}
+
+#block-views-Economy-block_1 {
+	width: 580px;
+	margin-top: -30px;
+}
+
+#block-views-video-block_7 {
+	float: right;
+	width: 160px;
+}
+
+
+#block-views-zineview-block_1
+{
+	width: 580px;
+	margin-right: 0px;
+}
+
+.node-type-content-zine #header h1.title {
+	text-transform: none;
+	font-family: Futura, Futura bk, Kabel Bk, Futura Book, Helvetica, Ariel;
+	font-size: 15px;
+ 	font-style: condensed;
+	color: #515100;
+	font-weight: bold;
+	margin-top: 8px; 
+	margin-bottom: 2px; 
+}
+
+	
+.zineauthor {  
+	font-family: Times New Roman, Serif; 
+	font-size: 14px;
+	margin-top: 2px; 	
+	margin-right: 0px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+	padding-bottom: 0px; 
+	font-style: normal;
+	color: #000000;	
+	}
+
+.zinesubhead {
+	font-family: Futura, Futura Bk, Kabel Bk, Futura Book, America, Times, caslon, bookman;
+	font-size: 11px;
+ 	font-style: condensed;
+	color: #515100;
+	font-weight: bold;
+	margin-top: 4px; 
+	margin-bottom: 2px; 
+}
+
+
+.zinetext {  
+	font-family: America, Times, caslon, bookman;
+	font-size: 11px; 
+	margin-top: 2px;
+	margin-right: 0px;
+	margin-bottom: 0px; 
+	margin-left: 0px; 
+	font-style: normal;
+	line-height: 1.2em;
+	}
+	
+
+
+	
+.zinemore-info,
+.view-zineview .views-field-view-node {
+	color: red;
+	text-align: right;
+	font-family: Futura Bk BT, Kabel Bk BT, HelveticaLight, Helvetica, Arial;
+	font-size: 12px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 8px;
+	font-style: normal;
+	line-height: 1.0em;
+}
+
+.view-zineview .views-field-view-node a {
+	color: red;
+}
+
